@@ -9,7 +9,7 @@ pip install -r requirements.txt
 
 ### Running
 
-Analyser.py {Path to RARD Dataset}
+python Analyser.py {Path to RARD Dataset}
 
 ### Dataset
 
